@@ -1,0 +1,14 @@
+D:\ProyectosVariados\SistemaGestionDeBiblioteca\Sistema-De-Gestion-De-Biblioteca\Sistema-De-Gestion-De-Biblioteca\bin\Debug\net9.0\Sistema-De-Gestion-De-Biblioteca.exe
+D:\ProyectosVariados\SistemaGestionDeBiblioteca\Sistema-De-Gestion-De-Biblioteca\Sistema-De-Gestion-De-Biblioteca\bin\Debug\net9.0\Sistema-De-Gestion-De-Biblioteca.deps.json
+D:\ProyectosVariados\SistemaGestionDeBiblioteca\Sistema-De-Gestion-De-Biblioteca\Sistema-De-Gestion-De-Biblioteca\bin\Debug\net9.0\Sistema-De-Gestion-De-Biblioteca.runtimeconfig.json
+D:\ProyectosVariados\SistemaGestionDeBiblioteca\Sistema-De-Gestion-De-Biblioteca\Sistema-De-Gestion-De-Biblioteca\bin\Debug\net9.0\Sistema-De-Gestion-De-Biblioteca.dll
+D:\ProyectosVariados\SistemaGestionDeBiblioteca\Sistema-De-Gestion-De-Biblioteca\Sistema-De-Gestion-De-Biblioteca\bin\Debug\net9.0\Sistema-De-Gestion-De-Biblioteca.pdb
+D:\ProyectosVariados\SistemaGestionDeBiblioteca\Sistema-De-Gestion-De-Biblioteca\Sistema-De-Gestion-De-Biblioteca\obj\Debug\net9.0\Sistema-De-Gestion-De-Biblioteca.GeneratedMSBuildEditorConfig.editorconfig
+D:\ProyectosVariados\SistemaGestionDeBiblioteca\Sistema-De-Gestion-De-Biblioteca\Sistema-De-Gestion-De-Biblioteca\obj\Debug\net9.0\Sistema-De-Gestion-De-Biblioteca.AssemblyInfoInputs.cache
+D:\ProyectosVariados\SistemaGestionDeBiblioteca\Sistema-De-Gestion-De-Biblioteca\Sistema-De-Gestion-De-Biblioteca\obj\Debug\net9.0\Sistema-De-Gestion-De-Biblioteca.AssemblyInfo.cs
+D:\ProyectosVariados\SistemaGestionDeBiblioteca\Sistema-De-Gestion-De-Biblioteca\Sistema-De-Gestion-De-Biblioteca\obj\Debug\net9.0\Sistema-De-Gestion-De-Biblioteca.csproj.CoreCompileInputs.cache
+D:\ProyectosVariados\SistemaGestionDeBiblioteca\Sistema-De-Gestion-De-Biblioteca\Sistema-De-Gestion-De-Biblioteca\obj\Debug\net9.0\Sistema-De-Gestion-De-Biblioteca.dll
+D:\ProyectosVariados\SistemaGestionDeBiblioteca\Sistema-De-Gestion-De-Biblioteca\Sistema-De-Gestion-De-Biblioteca\obj\Debug\net9.0\refint\Sistema-De-Gestion-De-Biblioteca.dll
+D:\ProyectosVariados\SistemaGestionDeBiblioteca\Sistema-De-Gestion-De-Biblioteca\Sistema-De-Gestion-De-Biblioteca\obj\Debug\net9.0\Sistema-De-Gestion-De-Biblioteca.pdb
+D:\ProyectosVariados\SistemaGestionDeBiblioteca\Sistema-De-Gestion-De-Biblioteca\Sistema-De-Gestion-De-Biblioteca\obj\Debug\net9.0\Sistema-De-Gestion-De-Biblioteca.genruntimeconfig.cache
+D:\ProyectosVariados\SistemaGestionDeBiblioteca\Sistema-De-Gestion-De-Biblioteca\Sistema-De-Gestion-De-Biblioteca\obj\Debug\net9.0\ref\Sistema-De-Gestion-De-Biblioteca.dll

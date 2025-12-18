@@ -1,0 +1,58 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\ProyectosVariados\\SistemaGestionDeBiblioteca\\Sistema-De-Gestion-De-Biblioteca\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A4F08C25-211F-45C2-A0BC-08DCD3116D6B}|Sistema-De-Gestion-De-Biblioteca\\Sistema-De-Gestion-De-Biblioteca.csproj|d:\\proyectosvariados\\sistemagestiondebiblioteca\\sistema-de-gestion-de-biblioteca\\sistema-de-gestion-de-biblioteca\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A4F08C25-211F-45C2-A0BC-08DCD3116D6B}|Sistema-De-Gestion-De-Biblioteca\\Sistema-De-Gestion-De-Biblioteca.csproj|solutionrelative:sistema-de-gestion-de-biblioteca\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A4F08C25-211F-45C2-A0BC-08DCD3116D6B}|Sistema-De-Gestion-De-Biblioteca\\Sistema-De-Gestion-De-Biblioteca.csproj|d:\\proyectosvariados\\sistemagestiondebiblioteca\\sistema-de-gestion-de-biblioteca\\sistema-de-gestion-de-biblioteca\\dockerfile||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{A4F08C25-211F-45C2-A0BC-08DCD3116D6B}|Sistema-De-Gestion-De-Biblioteca\\Sistema-De-Gestion-De-Biblioteca.csproj|solutionrelative:sistema-de-gestion-de-biblioteca\\dockerfile||{8B382828-6202-11D1-8870-0000F87579D2}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Dockerfile",
+              "DocumentMoniker": "D:\\ProyectosVariados\\SistemaGestionDeBiblioteca\\Sistema-De-Gestion-De-Biblioteca\\Sistema-De-Gestion-De-Biblioteca\\Dockerfile",
+              "RelativeDocumentMoniker": "Sistema-De-Gestion-De-Biblioteca\\Dockerfile",
+              "ToolTip": "D:\\ProyectosVariados\\SistemaGestionDeBiblioteca\\Sistema-De-Gestion-De-Biblioteca\\Sistema-De-Gestion-De-Biblioteca\\Dockerfile",
+              "RelativeToolTip": "Sistema-De-Gestion-De-Biblioteca\\Dockerfile",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2025-12-18T21:06:03.291Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\ProyectosVariados\\SistemaGestionDeBiblioteca\\Sistema-De-Gestion-De-Biblioteca\\Sistema-De-Gestion-De-Biblioteca\\Program.cs",
+              "RelativeDocumentMoniker": "Sistema-De-Gestion-De-Biblioteca\\Program.cs",
+              "ToolTip": "D:\\ProyectosVariados\\SistemaGestionDeBiblioteca\\Sistema-De-Gestion-De-Biblioteca\\Sistema-De-Gestion-De-Biblioteca\\Program.cs",
+              "RelativeToolTip": "Sistema-De-Gestion-De-Biblioteca\\Program.cs",
+              "ViewState": "AgIAADgAAAAAAAAAAAAswFEAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-10T21:47:14.268Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

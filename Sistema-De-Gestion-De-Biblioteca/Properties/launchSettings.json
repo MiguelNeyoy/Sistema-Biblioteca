@@ -1,0 +1,10 @@
+{
+  "profiles": {
+    "Sistema-De-Gestion-De-Biblioteca": {
+      "commandName": "Project"
+    },
+    "Container (Dockerfile)": {
+      "commandName": "Docker"
+    }
+  }
+}
