@@ -23,8 +23,8 @@ namespace SistemaSGB
                 Console.WriteLine("4. Salir.");
                 Console.Write("Seleccione una opción: ");
                 string? option = Console.ReadLine();
-                
-                
+
+
                 if (option != null)
                 {
                     switch (option)
@@ -46,7 +46,7 @@ namespace SistemaSGB
                             }
                             break;
                         case "2":
-                            if(libros.Length >= 3)
+                            if (libros.Length >= 3)
                             {
                                 Console.WriteLine("No se pueden agregar mas libros, limite alcanzado. Presiona cualquier tecla para continuar...");
                                 Console.ReadKey();
@@ -56,54 +56,51 @@ namespace SistemaSGB
                             string? NuevoLibro = Console.ReadLine();
                             int NuevoEspacio = libros.Length + 1;
                             Array.Resize(ref libros, NuevoEspacio);
-                            libros[NuevoEspacio - 1 ] = NuevoLibro;
+                            libros[NuevoEspacio - 1] = NuevoLibro;
                             Console.WriteLine($"Libro añadido {NuevoLibro}. El arreglo ahora tiene {libros.Length} elementos.");
                             break;
                         case "3":
                             for (int i = 0; i < libros.Length; i++)
                             {
                                 Console.WriteLine($"{i + 1} {libros[i]}");
-                            }
-                            Console.WriteLine("Ingrea el numero del libro a prestar");
-                            string? Numlibro = Console.ReadLine();
-                            if (Numlibro != null)
-                            {
-                                    for (int i = 0; i < libros.Length; i++)
-                                    {
-                                        if (!(libros[i].EndsWith("(Prestado)")))
-                                        {
 
-                                        if (libros[i] == libros[int.Parse(Numlibro) - 1])
-                                        {
-                                            libros[i] += " (Prestado)";
-                                            Console.WriteLine($"Has prestado el libro: {libros[i]}. Presiona cualquier tecla para continuar...");
-                                            Console.ReadKey();
-                                            break;
-                                        }
-                                    }
-                                    else
+                                Console.WriteLine("Ingrea el numero del libro a prestar");
+                                string? Numlibro = Console.ReadLine();
+                                if (Numlibro != null)
+                                {
+                                for (int j = 0; j < libros.Length; i++)
+                                {
+
+                                    if (libros[j] == libros[int.Parse(Numlibro) - 1])
                                     {
-                                        Console.WriteLine("El libro ya esta prestado. Presiona cualquier tecla para continuar...");
+                                        libros[j] += " (Prestado)";
+                                        Console.WriteLine($"Has prestado el libro: {libros[j]}. Presiona cualquier tecla para continuar...");
                                         Console.ReadKey();
                                         break;
                                     }
-                                    
-                                    }
-                            }
-                            break;
+
+                                }
+
+                                }
+                                else
+                                {
+                                    Console.WriteLine("Respuesta invalida- presiona cualquier tecla para continuar");
+                                }
+                    }
+                    break;
 
                         case "4":
-                            running = true;
-                            break;
+                        running = true;
+                        break;
                     }
-                    
+
                 }
                 else
                 {
                     Console.WriteLine("Respuesta invalida- presiona cualquier tecla para continuar");
                     Console.ReadLine();
                 }
-                    
+
 
             }
         }

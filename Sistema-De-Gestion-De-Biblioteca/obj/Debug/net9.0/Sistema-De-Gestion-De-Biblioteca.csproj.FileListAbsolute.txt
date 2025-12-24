@@ -12,3 +12,4 @@ D:\ProyectosVariados\SistemaGestionDeBiblioteca\Sistema-De-Gestion-De-Biblioteca
 D:\ProyectosVariados\SistemaGestionDeBiblioteca\Sistema-De-Gestion-De-Biblioteca\Sistema-De-Gestion-De-Biblioteca\obj\Debug\net9.0\Sistema-De-Gestion-De-Biblioteca.pdb
 D:\ProyectosVariados\SistemaGestionDeBiblioteca\Sistema-De-Gestion-De-Biblioteca\Sistema-De-Gestion-De-Biblioteca\obj\Debug\net9.0\Sistema-De-Gestion-De-Biblioteca.genruntimeconfig.cache
 D:\ProyectosVariados\SistemaGestionDeBiblioteca\Sistema-De-Gestion-De-Biblioteca\Sistema-De-Gestion-De-Biblioteca\obj\Debug\net9.0\ref\Sistema-De-Gestion-De-Biblioteca.dll
+D:\ProyectosVariados\SistemaGestionDeBiblioteca\Sistema-De-Gestion-De-Biblioteca\Sistema-De-Gestion-De-Biblioteca\obj\Debug\net9.0\Sistema-De-Gestion-De-Biblioteca.sourcelink.json
