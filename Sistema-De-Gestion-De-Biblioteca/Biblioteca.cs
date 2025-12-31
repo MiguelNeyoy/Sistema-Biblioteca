@@ -16,56 +16,24 @@ namespace Sistema_De_Gestion_De_Biblioteca
 {
     internal class Biblioteca
     {
-        private List<Libro> ListaDeLibros;
+        private List<ItemBiblioteca> ItemBiblioteca;
         public Biblioteca()
         {
-            ListaDeLibros = new List<Libro>();
+            ItemBiblioteca = new List<ItemBiblioteca>();
         }
 
-        public void AlmacenarLibro(Libro libro)
+        public void AgregarItem(ItemBiblioteca item)
         {
-            if (string.IsNullOrWhiteSpace(libro.Titulo) || string.IsNullOrWhiteSpace(libro.Isbn) || string.IsNullOrWhiteSpace(libro.Autor))
-            {
-
-                Console.WriteLine("No dejes en blanco los datos");
-                return;
-            }
-                ListaDeLibros.Add(libro);
-          
+            ItemBiblioteca.Add(item);
         }
-
-        public void MostrarLibros()
+        public void EliminarItem(string codigoIsbn)
         {
-            int index = 1;
-            foreach (var libro in ListaDeLibros)
+            var item = ItemBiblioteca.FirstOrDefault(i => i.CodigoIsbn == codigoIsbn);
+            if (item != null)
             {
-                Console.WriteLine($"{index}.- Título: {libro.Titulo}\nAutor: {libro.Autor}\nISBN: {libro.Isbn}\nPrestado: {(libro.EstaPrestado ? "Prestado" : "Disponible")}");
-                index++;
+                ItemBiblioteca.Remove(item);
             }
         }
 
-        public void EliminarLibro(Libro libro)
-        {
-            ListaDeLibros.Remove(libro);
-        }
-
-        public int ContarLibros()
-        {
-            return ListaDeLibros.Count();
-        }
-        public void PrestarLibro(int index)
-        {
-            if(index < 0 || index >= ListaDeLibros.Count)
-            {
-                Console.WriteLine("Índice de libro inválido.");
-                return;
-            }
-            if(ListaDeLibros[index].EstaPrestado)
-            {
-                Console.WriteLine("El libro ya está prestado.");
-                return;
-            }
-            ListaDeLibros[index].EstaPrestado = true;
-        }
     }
 }

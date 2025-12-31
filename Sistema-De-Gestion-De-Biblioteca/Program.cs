@@ -4,6 +4,8 @@
 *  3.- Condicion: Usar solamete Arreglos simples o variables para almacenar por lo menos 3 libros.
 *  Importante: Validar que el usuiario no ingrese textos vacios.
 */
+using Sistema_De_Gestion_De_Biblioteca.Itmes;
+
 namespace Sistema_De_Gestion_De_Biblioteca
 {
     class Program
@@ -96,7 +98,6 @@ namespace Sistema_De_Gestion_De_Biblioteca
                         case "4": // salir del programa
                             running = true;
                             break;
-
 
                         default:
                             {
